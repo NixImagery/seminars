@@ -2,7 +2,11 @@
 
 This repository contains presentations and handouts for seminars and the like, that I have made and shared. 
 
-There are two other github repositories that might be useful to you, which are small working examples for [mkdocs]((https://github.com/NixImagery/SWE-mkdocs)) and [bookdown]((https://github.com/NixImagery/SWE-bookdown)) websites. Download these to get a starting point for your own site.
+## Resources
+
+There are two other github repositories that might be useful to you, which are small working examples for [mkdocs](https://github.com/NixImagery/SWE-mkdocs) and [bookdown](https://github.com/NixImagery/SWE-bookdown) websites. Download these to get a starting point for your own site.
+
+The Zoom recording of the website seminar given on 15th June 2023 is available [here](https://ed-ac-uk.zoom.us/rec/share/5RDV5tOK8vM6_Hr2ED_DqCYaRTcBxUv_reATsQ9LjzhCSo_6reFto5wiBB5dyQ_v.UsnsfN5t6aaeFnza?startTime=1686823238000).
 
 ## Usage
 
