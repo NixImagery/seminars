@@ -1,0 +1,86 @@
+---
+title: "Evoking a response for research by creative means"
+subtitle: "A seminar for SiERG"
+date-modified: last-modified
+date-format: "Do MMMM YYYY HH:mm"
+date: 3 October 2024 14:00 # \today
+author: Nick Hood
+format: 
+    pdf: 
+        colorlinks: true
+        linkcolor: MidnightBlue
+        urlcolor: RoyalPurple
+        link-citations: true
+        toccolor: MidnightBlue
+        # toc: true
+        toc-depth: 2
+        documentclass: scrartcl
+        # header-includes:
+        #   - \usepackage{draftwatermark}
+        lang: en-GB
+        geometry: margin=1.5cm #, bindingoffset=0cm
+        pagestyle: empty
+        papersize: a4
+        fontsize: 12pt
+        fontfamily: roboto
+        fontfamilyoptions: sfdefault, light
+        # shift-heading-level-by: -1
+        venue: SiERG Room, Charteris Land
+mermaid: 
+    theme: default
+bibliography: /users/dave/Dropbox/Bibliographies/PhD.bib
+csl: /users/dave/Dropbox/styles/chicago-author-date-with-ibid.csl
+# bibliography: sierg-seminar.bib
+# csl: styles/chicago-author-date-with-ibid.csl
+keywords: 
+    - SiERG
+    - research
+    - arts-based methods
+    - empathy
+nocite: |
+  @Goopy2019, @BBCR4-su-website, @DeAndrade2022, @Leavy2020, @Barone2011, @McNiff2008
+---
+
+<!-- \SetWatermarkText{draft copy} -->
+<!-- \newpage -->
+
+![](../sptr/images/8-cXvC8O7tWjWWp46.png)
+
+## Statement of intent
+
+In my research, I want to know if and how mental imagery, evoked from just listening to an audio stimulus, is useful in developing understanding of non-trivial or complex ideas. This seminar will describe the arts-based approaches I am going to use to stimulate, capture and validate that evocation.
+
+## Introduction
+
+Imagery is created in the mind of a listener from their own imagination, knowledge and experience in response to an audio stimulus. We will begin with an activity that I hope will illustrate and explore this phenomenon a little. I will then share some of the research design ideas I am using in the three phases of stimulus, capture and validation. We will have time to discuss sustainability ideas, including how this approach might be helpful in developing better empathy in new teachers.
+
+## Activity
+
+We will begin with an activity that I hope will illustrate and explore this phenomenon a little. 
+
+* Please put your pens and devices down for a moment and listen. It may help to close your eyes, although it isn't really necessary. I just want you to allow the sound to do its work in your head. It's ok if you need to doodle or jot down a note.
+
+* Musical sequence
+
+* OK, open your eyes. Now, without talking to each other at first, sketch out a representation of what you were feeling during the music. Prompts -- did it change over time, if so, how can you show that? -- were there people? colours? places? memories? What was different about how you were feeling at the end?
+
+* Now, explain to a partner what your sketch represents. Take turns, and agree if either of you are happy to share to the rest of us.
+
+* Sharing of one or two sketch stories with the group.
+
+Moving on to research design now, we will see how I am using this idea.
+
+## Research design ideas
+
+Constructing the "radio programme" and use of cultural probes.
+
+Capturing the response to the audio sequence through sketching, aided by cultural prompts, in a way not unlike our little activity.
+
+Validation comes much later in the process, after I have recorded participant narratives of their drawings. I intend to create a fictionalised account of their narrative and read it to them. I am hoping that positive response or constructive feedback will allow me to characterise the veracity of my interpretation of their response to the audio.
+
+## Discussion / Questions
+
+We have time now to discuss what I've offered in this seminar, relate it to sustainability ideas, including perhaps how this approach might be helpful in developing better empathy in new teachers.
+
+## References
+
