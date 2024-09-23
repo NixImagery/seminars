@@ -38,7 +38,7 @@ keywords:
     - arts-based methods
     - empathy
 nocite: |
-  @Goopy2019, @BBCR4-su-website, @DeAndrade2022, @Leavy2020, @Barone2011, @McNiff2008
+  @Goopy2019, @BBCR4-su-website, @DeAndrade2022, @Leavy2020, @Barone2011, @McNiff2008, @Østergaard2019
 ---
 
 <!-- \SetWatermarkText{draft copy} -->
