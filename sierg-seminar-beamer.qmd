@@ -24,7 +24,7 @@ format:
         # topic: "Pandoc how-to"
         mainfont: "Roboto Light"
         linkstyle: bold
-        aspectratio: 169
+#        aspectratio: 169
         titlegraphic: images/UoE_EducationAndSport-letterhead-200.png
         logo: images/UoE_EducationAndSport-logo-80.png
         section-titles: false
