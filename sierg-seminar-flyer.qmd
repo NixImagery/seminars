@@ -26,6 +26,7 @@ format:
         fontfamilyoptions: sfdefault, light
         # shift-heading-level-by: -1
         venue: SiERG Room, Charteris Land
+    # docx: default
 # mermaid: 
 #     theme: default
 # bibliography: /users/dave/Dropbox/Bibliographies/PhD.bib
