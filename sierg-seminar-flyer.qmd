@@ -1,0 +1,64 @@
+---
+title: "Evoking a response for research by creative means"
+subtitle: "A seminar for SiERG"
+date-modified: last-modified
+date-format: "Do MMMM YYYY HH:mm"
+date: 3 October 2024 14:00 # \today
+author: Nick Hood
+format: 
+    pdf: 
+        colorlinks: true
+        linkcolor: MidnightBlue
+        urlcolor: RoyalPurple
+        link-citations: true
+        toccolor: MidnightBlue
+        # toc: true
+        toc-depth: 2
+        documentclass: scrartcl
+        # header-includes:
+        #   - \usepackage{draftwatermark}
+        lang: en-GB
+        geometry: margin=1.5cm #, bindingoffset=0cm
+        pagestyle: empty
+        papersize: a4
+        fontsize: 12pt
+        fontfamily: roboto
+        fontfamilyoptions: sfdefault, light
+        # shift-heading-level-by: -1
+        venue: SiERG Room, Charteris Land
+# mermaid: 
+#     theme: default
+# bibliography: /users/dave/Dropbox/Bibliographies/PhD.bib
+# csl: /users/dave/Dropbox/styles/chicago-author-date-with-ibid.csl
+# bibliography: sierg-seminar.bib
+# csl: styles/chicago-author-date-with-ibid.csl
+keywords: 
+    - SiERG
+    - research
+    - arts-based methods
+    - empathy
+# nocite: |
+#   @Goopy2019, @BBCR4-su-website, @DeAndrade2022, @Leavy2020, @Barone2011, @McNiff2008, @Østergaard2019
+---
+
+<!-- \SetWatermarkText{draft copy} -->
+<!-- \newpage -->
+
+:::{layout-ncol="3"}
+
+&nbsp;
+
+![](../sptr/images/8-cXvC8O7tWjWWp46.png)
+:::
+
+\marginpar{\rotatebox{90}{\small{Image generated at \href{https://hotpot.ai}{hotpot.ai}}}}
+
+## Abstract
+
+In my research, I want to know if and how mental imagery, evoked from just listening to an audio stimulus, is useful in developing understanding of non-trivial or complex ideas. This seminar will describe the arts-based approaches I am going to use to stimulate, capture and validate that evocation.
+
+Imagery is created in the mind of a listener from their own imagination, knowledge and experience in response to an audio stimulus. We will begin with an activity that I hope will illustrate and explore this phenomenon a little. I will then share some of the research design ideas I am using in the three phases of stimulus, capture and validation. We will have time to discuss sustainability ideas, including how this approach might be helpful in developing better empathy in new teachers.
+
+## Nick Hood
+
+A former lecturer at Moray House in initial teacher education, Nick is now a full-time PhD student looking at audio pedagogy using arts-based methods. 
